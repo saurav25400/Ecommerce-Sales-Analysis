@@ -5,7 +5,7 @@ In today's competitive e-commerce landscape, organizations generate massive volu
 
 This project analyzes historical sales data to identify revenue drivers, profitability trends, customer purchasing behavior, discount effectiveness, regional performance, and product performance. The outcome is an interactive Power BI dashboard that enables business stakeholders to make informed, data-driven decisions.
 
-<img width="2836" height="1589" alt="DashBoard_ScreenShot" src="https://res.cloudinary.com/doqxmemfg/image/upload/v1783263663/Hotel_booking_attractive_powerbi_dashbaord_llxsfj.png"/>
+<img width="2836" height="1589" alt="DashBoard_ScreenShot" src="https://res.cloudinary.com/doqxmemfg/image/upload/v1783264467/ecommerce_sales_dashboard_cvvfzt.png"/>
 
 🎯 Business Problem
 
