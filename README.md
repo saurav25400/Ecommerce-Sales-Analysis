@@ -190,7 +190,6 @@ The analysis helps business stakeholders:
 
 This project demonstrates how raw transactional data can be transformed into meaningful business intelligence. Rather than focusing solely on visualization, the analysis emphasizes solving real business problems by identifying revenue opportunities, improving profitability, optimizing discounts, understanding customer behavior, and enabling data-driven decision-making through an interactive Power BI dashboard.
 
----
 
-⭐ *If you found this project interesting, feel free to star the repository and connect with me on LinkedIn.*
+
 
